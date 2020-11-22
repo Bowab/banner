@@ -3,6 +3,8 @@
 Hej!
 Instruktioner hittar ni på startsidan när ni startar appen.
 
+Jag körde .net core 3.1 web application med API som template.
+
 Det går bra att använda appens formulär eller posta med postman mot api:et.
 
 get: /banner?id=1 -- GET
